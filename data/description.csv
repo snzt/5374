@@ -2,5 +2,5 @@ label,sublabel,description,styles,bgcolor
 燃やせないごみ,,,img/moyasanai02.svg,#733b96
 容器包装プラスチック,,,img/shigen02.svg,#77ae1f
 燃やせるごみ,,,img/moyasu02.svg,#ea3b13
-ペットボトル・空き缶・空きびん,,,img/bin02.svg,#2dc7aa
-古紙・古布,,,,#2dc7aa
+ペットボトル・空き缶・空きびん,,,img/bin02.svg,#13c4e1
+古紙・古布,,,,#77ae1f
